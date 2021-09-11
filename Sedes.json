@@ -1,0 +1,11 @@
+{
+    "Sedes": {
+        "Id": "object",
+        "Cod_sede": "string",
+        "Nombre_sede": "string",
+        "Direccion": "string",
+        "Telefono": "string",
+        "Coordinador": "string",
+        "Ciudad": "string"
+    }
+}

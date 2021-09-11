@@ -1,0 +1,19 @@
+{
+    "Tratamientos": {
+        "Id": "object",
+        "Nombre": "string",
+        "Tipo": "string",
+        "Valor": "string",
+        "Personal": [
+            {
+                "Id": "object",
+                "Nombre_doctor": "string",
+                "Documento": "timestamp",
+                "Telefono": "timestamp",
+                "Direccion": "string",
+                "Comision": "string"
+            }
+        ]
+
+    }
+}

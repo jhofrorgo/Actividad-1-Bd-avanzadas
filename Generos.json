@@ -1,0 +1,9 @@
+{
+    "Generos": {
+        "Id": "object",
+        "Cod_Genero": "string",
+        "Genero": "string",
+        "Fecha_creacion": "string",
+        "Fecha_actual": "string"
+    }
+}
