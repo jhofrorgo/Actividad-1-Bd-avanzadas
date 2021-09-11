@@ -1,0 +1,10 @@
+{
+    "Ciudades": {
+        "Id": "object",
+        "Cod_dane": "string",
+        "Nombre_ciudad": "string",
+        "Nombre_departamento": "string",
+        "Fecha_creacion": "string",
+        "Fecha_actual": "string"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Terceros": {
+        "Id": "object",
+        "Cedula": "string",
+        "Primer_nombre": "string",
+        "Segundo_nombre": "string",
+        "Primer_apellido": "string",
+        "Segudo_apellido": "string",
+        "Genero": "string",
+        "Fecha_nac": "timestamp",
+        "Ciudad_nac": "string",
+        "Telefono": "string",
+        "Fecha_crea": "timestamp",
+        "Fecha_actual": "timestamp",
+        "Tratamientos": [
+            {
+                "Id": "object",
+                "Tratamiento": "string",
+                "Fecha_ini": "timestamp",
+                "Fecha_fin": "timestamp",
+                "Doctor": "string"
+            }
+        ]
+    }
+}
